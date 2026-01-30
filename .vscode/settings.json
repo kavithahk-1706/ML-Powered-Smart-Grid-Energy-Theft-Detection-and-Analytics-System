@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.supportAllPythonDocuments": true,
+    "terminal.integrated.suggest.enabled": true
+}
